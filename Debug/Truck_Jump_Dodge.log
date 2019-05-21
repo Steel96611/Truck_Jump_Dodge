@@ -1,0 +1,7 @@
+﻿  Game.cpp
+c:\users\nwuser\documents\visual studio 2017\projects\truck_jump_dodge\game.cpp(112): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\nwuser\documents\visual studio 2017\projects\truck_jump_dodge\game.cpp(120): warning C4244: 'return': 'int' から 'float' への変換です。データが失われる可能性があります。
+c:\users\nwuser\documents\visual studio 2017\projects\truck_jump_dodge\game.cpp(231): warning C4101: 'cnt': ローカル変数は 1 度も使われていません。
+c:\users\nwuser\documents\visual studio 2017\projects\truck_jump_dodge\game.cpp(339): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+c:\users\nwuser\documents\visual studio 2017\projects\truck_jump_dodge\game.cpp(341): warning C4244: '引数': 'int' から 'FLOAT' への変換です。データが失われる可能性があります。
+  Truck_Jump_Dodge.vcxproj -> C:\Users\nwuser\Documents\Visual Studio 2017\Projects\Truck_Jump_Dodge\Debug\Truck_Jump_Dodge.exe
